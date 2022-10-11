@@ -28,7 +28,7 @@ links:
   - Name: Z100 New York | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-SA 
-    Color: '#5b03d3'
+    Color: '#4200e6'
     Text_Color: '#e1dee7'
     Icon-Class: 
 
@@ -44,8 +44,8 @@ links:
   - Name: STAR 94.1 Atlanta | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-AtlantaGA-941-SA 
-    Color: '#5b03d3'
-    Text_Color: '#e1dee7'
+    Color: '#3300FF'
+    Text_Color: '#CCCCFF'
     Icon-Class: 
     
     # 96.7 KISS FM Austin - Left and Right
