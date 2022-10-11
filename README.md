@@ -1,4 +1,4 @@
-### System Requirements
+## System Requirements
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Jekyll](https://jekyllrb.com/) (You can read **What is Jekyll [here](https://github.com/jekyll/jekyll#jekyll)**)
 - [NPM](https://npmjs.com/)
@@ -9,9 +9,7 @@
 - [Poppins Font](https://fonts.google.com/specimen/Poppins)
 - [Images.weserv.nl](https://images.weserv.nl/)
 
----
-
-Special Thanks to the following:
+## Special Thanks to the following:
 
 * [Rohit Motwani](https://github.com/rohittm)
 * [Hitanshu Sahu](https://www.behance.net/phantomcluster)
