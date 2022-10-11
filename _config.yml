@@ -8,7 +8,9 @@ tagline: Hello there! Welcome to the AT40 Request links page for Jung Kook. Feel
 Image_URL: http://www.gravatar.com/avatar/79699862899006b32a2ca0199e862b54?s=400
 
 # Website Background Image
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://images.unsplash.com/photo-1515694346937-94d85e41e6f0
+
+# https://source.unsplash.com/random
 
 # Request Links
 links:
@@ -17,14 +19,16 @@ links:
   - Name: Z100 New York | Left & Right
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-LnR
-    Color: '#3b5998'
+    Color: '#F8F6F3'
+    Text_Color: '#DFFE03'
     Icon-Class:
 
     # Z100 New York - Stay Alive
   - Name: Z100 New York | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-SA 
-    Color: '#DD2A7B'
+    Color: '#5B03D3'
+    Text_Color: '#E1DEE7'
     Icon-Class: 
 
     # STAR 94.1 Atlanta - Left and Right
@@ -38,7 +42,8 @@ links:
   - Name: STAR 94.1 Atlanta | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-AtlantaGA-941-SA 
-    Color: '#f1c40f'
+    Color: '#5B03D3'
+    Text_Color: '#E1DEE7'
     Icon-Class: 
     
     # 96.7 KISS FM Austin - Left and Right
