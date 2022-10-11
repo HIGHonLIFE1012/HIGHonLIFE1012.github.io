@@ -11,7 +11,11 @@
 
 ---
 
-Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** and making it up and running with his geeky mind, [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills and [Nelson Dane](https://github.com/NelsonDane) for making this compatible with [Docker](https://docker.com/)
+Special Thanks to the following:
+
+* [Rohit Motwani](https://github.com/rohittm)
+* [Hitanshu Sahu](https://www.behance.net/phantomcluster)
+* [Nelson Dane](https://github.com/NelsonDane) 
 
 ### License
 
