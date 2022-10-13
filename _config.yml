@@ -23,7 +23,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class:
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # Z100 New York - Stay Alive
   - Name: Z100 New York | Stay Alive
@@ -41,7 +41,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class: 
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # STAR 94.1 Atlanta - Stay Alive
   - Name: STAR 94.1 Atlanta | Stay Alive
@@ -59,7 +59,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class: 
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # 96.7 KISS FM Austin - Stay Alive
   - Name: 96.7 KISS FM Austin | Stay Alive
@@ -77,7 +77,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class:
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # KISS 108 Boston - Stay Alive
   - Name: KISS 108 Boston | Stay Alive
@@ -95,7 +95,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class: 
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # 102.7 KIIS FM Los Angeles - Stay Alive
   - Name: 102.7 KIIS FM Los Angeles | Stay Alive
@@ -113,7 +113,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class: 
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # MIX 96.9 Phoenix - Stay Alive
   - Name: MIX 96.9 Phoenix | Stay Alive
@@ -131,7 +131,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class: 
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # Z100 Portland - Stay Alive
   - Name: Z100 Portland | Stay Alive
@@ -149,7 +149,7 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class:
+    Icon-Class: fa-solid fa-arrows-left-right
 
     # KC 101 Hamden - Stay Alive
   - Name: KC 101 Hamden | Stay Alive
@@ -194,7 +194,7 @@ links:
     Text_Color: '#FCFDFF'
     Color: '#010005'
     Border_Color: '#0706C6'
-    Icon-Class:
+    Icon-Class: fa-regular fa-wave-pulse
 
     # Twitter - Jung Kook Radio
   - Name: Twitter
