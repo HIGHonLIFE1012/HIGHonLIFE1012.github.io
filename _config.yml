@@ -20,8 +20,8 @@ links:
   - Name: Z100 New York | Left & Right
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-LnR
-    Color: '#DFFE03'
     Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
     Border_Color: '#FFFFFF'
     Icon-Class:
 
@@ -29,111 +29,171 @@ links:
   - Name: Z100 New York | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-SA 
-    Color: '#5101EA'
-    Text_Color: '#E1DEE7'
-    Border_Color: '#0E0914'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class: 
 
     # STAR 94.1 Atlanta - Left and Right
   - Name: STAR 94.1 Atlanta | Left and Right
     URL: https://tinyurl.com
     Username: AT40-AtlantaGA-941-LnR 
-    Color: '#f8f6f3'
-    Text_Color: '#dffe03'
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class: 
 
     # STAR 94.1 Atlanta - Stay Alive
   - Name: STAR 94.1 Atlanta | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-AtlantaGA-941-SA 
-    Color: '#3300FF'
-    Text_Color: '#CCCCFF'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class: 
     
     # 96.7 KISS FM Austin - Left and Right
   - Name: 96.7 KISS FM Austin | Left and Right
     URL: https://tinyurl.com
     Username: AT40-AustinTX-967-LnR 
-    Color: '#2867B2'
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class: 
 
     # 96.7 KISS FM Austin - Stay Alive
   - Name: 96.7 KISS FM Austin | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-AustinTX-967-SA 
-    Color: '#6e5494'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class:
 
     # KISS 108 Boston - Left and Right
   - Name: KISS 108 Boston | Left and Right
     URL: https://tinyurl.com
     Username: AT40-BostonMA-108-LnR
-    Color: '#6e5494'
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class:
 
     # KISS 108 Boston - Stay Alive
   - Name: KISS 108 Boston | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-BostonMA-108-SA
-    Color: '#e17055'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class: 
 
     # 102.7 KIIS FM Los Angeles - Left and Right
   - Name: 102.7 KIIS FM Los Angeles | Left and Right
     URL: https://tinyurl.com
     Username: AT40-LosAngelesCA-1027-LnR 
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class: 
-    Color: '#9147fe'
 
     # 102.7 KIIS FM Los Angeles - Stay Alive
   - Name: 102.7 KIIS FM Los Angeles | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-LosAngelesCA-1027-SA
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class: 
-    Color: '#1ab7ea'
 
     # MIX 96.9 Phoenix - Left and Right
   - Name: MIX 96.9 Phoenix | Left and Right
     URL: https://tinyurl.com
     Username: AT40-PhoenixAZ-969-LnR
-    Color: '#006AFF'
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class: 
 
     # MIX 96.9 Phoenix - Stay Alive
   - Name: MIX 96.9 Phoenix | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-PhoenixAZ-969-SA
-    Color: '#FF4500'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class:
 
     # Z100 Portland - Left and Right
   - Name: Z100 Portland | Left and Right
     URL: https://tinyurl.com
     Username: AT40-PortandOR-Z100-LnR
-    Color: '#25d366'
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class: 
 
     # Z100 Portland - Stay Alive
   - Name: Z100 Portland | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-PortandOR-Z100-SA
-    Color: '#0088cc'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class:
 
     # KC 101 Hamden - Left and Right
   - Name: KC 101 Hamden | Left and Right
     URL: https://tinyurl.com
     Username: AT40-HamdenCT-101-LnR
-    Color: '#FFFC00'
-    Text_Color: '#000000'
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
     Icon-Class:
 
     # KC 101 Hamden - Stay Alive
   - Name: KC 101 Hamden | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-HamdenCT-101-SA 
-    Color: '#66c0f4'
-    Text_Color: '#000000'
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
+    Icon-Class:
+
+    # Y100 Miami - Left and Right
+  - Name: Y100 Miami | Left and Right
+    URL: https://tinyurl.com
+    Username: AT40-MiamiFL-100-LnR 
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class:
+
+    # KY100 Miami - Stay Alive
+  - Name: Y100 Miami | Stay Alive
+    URL: https://tinyurl.com
+    Username: AT40-MiamiFL-100-SA
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
+    Icon-Class:
+    
+    # 96.5 KISS FM Cleveland - Left and Right
+  - Name: 96.5 KISS FM Cleveland | Left and Right
+    URL: https://tinyurl.com
+    Username: AT40-ClevelandOH-965-LnR 
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class:
+
+    # 96.5 KISS FM Cleveland - Stay Alive
+  - Name: 96.5 KISS FM Cleveland | Stay Alive
+    URL: https://tinyurl.com
+    Username: AT40-ClevelandOH-965-SA 
+    Text_Color: '#FCFDFF'
+    Color: '#010005'
+    Border_Color: '#0706C6'
     Icon-Class:
 
     # Twitter - Jung Kook Radio
@@ -148,7 +208,7 @@ links:
   - Name: Email
     URL: 'mailto:hol_1012@yahoo.com'
     Icon-Class: fas fa-envelope
-    Color: '#e17055'
+    Color: '#430297'
     Text_Color: '#ffffff'
 
 # Footer - Can be removed entirely by removing 'Yes' or commenting out the code line.
