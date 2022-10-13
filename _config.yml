@@ -34,6 +34,15 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+    
+    ## Z100 New York - Phone
+  - Name: Z100 | New York, NY
+    URL: tel:8002420100
+    Username: 
+    Text_Color: '#FEFEFE'
+    Color: '#0F2BA9'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fa fa-mobile-phone
 
     # STAR 94.1 Atlanta - Left and Right
   - Name: STAR 94.1 | Atlanta, GA
