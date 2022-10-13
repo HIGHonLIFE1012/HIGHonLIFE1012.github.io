@@ -22,7 +22,7 @@ links:
     Username: AT40-NewYorkNY-Z100-LnR
     Color: '##DFFE03'
     Text_Color: '##FE0DA7'
-    # Border_Color: '#FE0DA7'
+    Border_Color: '#FE0DA7'
     Icon-Class:
 
     # Z100 New York - Stay Alive
