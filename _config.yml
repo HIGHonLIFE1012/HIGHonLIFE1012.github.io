@@ -42,7 +42,7 @@ links:
     Text_Color: '#FFFFFF'
     Color: '#1DD825'
     Border_Color: '#FFFFFF'
-    Icon-Class: fa fa-mobile-phone
+    Icon-Class: fas fa-phone-alt
     
     # Z100 New York - Text
   - Name: Text Z100 NY
@@ -51,7 +51,7 @@ links:
     Text_Color: '#FFFFFF'
     Color: '#1DD825'
     Border_Color: '#FFFFFF'
-    Icon-Class: fa fa-mobile-phone
+    Icon-Class: message
 
     # STAR 94.1 Atlanta - Left and Right
   - Name: STAR 94.1 | Atlanta, GA
