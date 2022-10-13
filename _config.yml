@@ -22,14 +22,16 @@ links:
     Username: AT40-NewYorkNY-Z100-LnR
     Color: '#f8f6f3'
     Text_Color: '#dffe03'
+    Border_Color: '#FE0DA7'
     Icon-Class:
 
     # Z100 New York - Stay Alive
   - Name: Z100 New York | Stay Alive
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-SA 
-    Color: '#4200e6'
-    Text_Color: '#e1dee7'
+    Color: '#5101EA'
+    Text_Color: '#E1DEE7'
+    Border_Color: '#0E0914'
     Icon-Class: 
 
     # STAR 94.1 Atlanta - Left and Right
