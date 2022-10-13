@@ -51,7 +51,7 @@ links:
     Text_Color: '#FFFFFF'
     Color: '#1DD825'
     Border_Color: '#FFFFFF'
-    Icon-Class: message
+    Icon-Class: fab fa-facebook-messenger
 
     # STAR 94.1 Atlanta - Left and Right
   - Name: STAR 94.1 | Atlanta, GA
