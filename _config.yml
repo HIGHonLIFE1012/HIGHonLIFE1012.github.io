@@ -21,8 +21,8 @@ links:
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-LnR
     Color: '#f8f6f3'
-    # Text_Color: '#dffe03'
-    # Border_Color: '#FE0DA7'
+    Text_Color: '#dffe03'
+    Border_Color: '#FE0DA7'
     Icon-Class:
 
     # Z100 New York - Stay Alive
