@@ -59,7 +59,8 @@ links:
     Text_Color: '#FE0DA7'
     Color: '#DFFE03'
     Border_Color: '#FFFFFF'
-    Icon-Class: fa-solid fa-arrows-left-right
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
 
     # 96.7 KISS FM Austin - Stay Alive
   - Name: 96.7 KISS FM Austin | Stay Alive
