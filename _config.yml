@@ -35,12 +35,21 @@ links:
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
     
-    ## Z100 New York - Phone
-  - Name: Z100 | New York, NY
+    # Z100 New York - Phone
+  - Name: Call Z100 NY
     URL: tel:8002420100
     Username: 
-    Text_Color: '#FEFEFE'
-    Color: '#0F2BA9'
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fa fa-mobile-phone
+    
+    # Z100 New York - Text
+  - Name: Text Z100 NY
+    URL: sms:+55100
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
     Border_Color: '#FFFFFF'
     Icon-Class: fa fa-mobile-phone
 
@@ -62,6 +71,15 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+    
+    # STAR 94.1 Atlanta - Phone
+  - Name: STAR 94.1 | Atlanta, GA
+    URL: tel:8665701941
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fa fa-mobile-phone
     
     # 96.7 KISS FM Austin - Left and Right
   - Name: 96.7 KISS FM | Austin, TX
