@@ -2,7 +2,7 @@
 name: Jung Kook AT40 Requests
 
 # Welcome Tagline
-tagline: Hello there! Welcome to the AT40 Request links page for Jung Kook. Feel free to click away and make your requests. 
+tagline: Hello there! Welcome to the AT40 Request page for Jung Kook. Feel free to click away and make your requests with the provided links. Have a good one! 
 
 # Profile Image URL
 Image_URL: http://www.gravatar.com/avatar/79699862899006b32a2ca0199e862b54?s=400
@@ -17,7 +17,7 @@ Cover_Image: https://source.unsplash.com/random
 links:
     
     # Z100 New York - Left & Right
-  - Name: Z100 New York | Left & Right
+  - Name: Z100 New York
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-LnR
     Text_Color: '#FE0DA7'
@@ -27,16 +27,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # Z100 New York - Stay Alive
-  - Name: Z100 New York | Stay Alive
+  - Name: Z100 New York
     URL: https://tinyurl.com
     Username: AT40-NewYorkNY-Z100-SA 
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # STAR 94.1 Atlanta - Left and Right
-  - Name: STAR 94.1 Atlanta | Left and Right
+  - Name: STAR 94.1 Atlanta
     URL: https://tinyurl.com
     Username: AT40-AtlantaGA-941-LnR 
     Text_Color: '#FE0DA7'
@@ -46,16 +46,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # STAR 94.1 Atlanta - Stay Alive
-  - Name: STAR 94.1 Atlanta | Stay Alive
+  - Name: STAR 94.1 Atlanta
     URL: https://tinyurl.com
     Username: AT40-AtlantaGA-941-SA 
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
     
     # 96.7 KISS FM Austin - Left and Right
-  - Name: 96.7 KISS FM Austin | Left and Right
+  - Name: 96.7 KISS FM Austin
     URL: https://tinyurl.com
     Username: AT40-AustinTX-967-LnR 
     Text_Color: '#FE0DA7'
@@ -65,16 +65,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # 96.7 KISS FM Austin - Stay Alive
-  - Name: 96.7 KISS FM Austin | Stay Alive
+  - Name: 96.7 KISS FM Austin
     URL: https://tinyurl.com
     Username: AT40-AustinTX-967-SA 
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # KISS 108 Boston - Left and Right
-  - Name: KISS 108 Boston | Left and Right
+  - Name: KISS 108 Boston
     URL: https://tinyurl.com
     Username: AT40-BostonMA-108-LnR
     Text_Color: '#FE0DA7'
@@ -84,16 +84,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # KISS 108 Boston - Stay Alive
-  - Name: KISS 108 Boston | Stay Alive
+  - Name: KISS 108 Boston
     URL: https://tinyurl.com
     Username: AT40-BostonMA-108-SA
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # 102.7 KIIS FM Los Angeles - Left and Right
-  - Name: 102.7 KIIS FM Los Angeles | Left and Right
+  - Name: 102.7 KIIS FM Los Angeles
     URL: https://tinyurl.com
     Username: AT40-LosAngelesCA-1027-LnR 
     Text_Color: '#FE0DA7'
@@ -103,16 +103,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # 102.7 KIIS FM Los Angeles - Stay Alive
-  - Name: 102.7 KIIS FM Los Angeles | Stay Alive
+  - Name: 102.7 KIIS FM Los Angeles
     URL: https://tinyurl.com
     Username: AT40-LosAngelesCA-1027-SA
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # MIX 96.9 Phoenix - Left and Right
-  - Name: MIX 96.9 Phoenix | Left and Right
+  - Name: MIX 96.9 Phoenix
     URL: https://tinyurl.com
     Username: AT40-PhoenixAZ-969-LnR
     Text_Color: '#FE0DA7'
@@ -122,16 +122,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # MIX 96.9 Phoenix - Stay Alive
-  - Name: MIX 96.9 Phoenix | Stay Alive
+  - Name: MIX 96.9 Phoenix
     URL: https://tinyurl.com
     Username: AT40-PhoenixAZ-969-SA
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # Z100 Portland - Left and Right
-  - Name: Z100 Portland | Left and Right
+  - Name: Z100 Portland
     URL: https://tinyurl.com
     Username: AT40-PortandOR-Z100-LnR
     Text_Color: '#FE0DA7'
@@ -141,16 +141,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # Z100 Portland - Stay Alive
-  - Name: Z100 Portland | Stay Alive
+  - Name: Z100 Portland
     URL: https://tinyurl.com
     Username: AT40-PortandOR-Z100-SA
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # KC 101 Hamden - Left and Right
-  - Name: KC 101 Hamden | Left and Right
+  - Name: KC 101 Hamden
     URL: https://tinyurl.com
     Username: AT40-HamdenCT-101-LnR
     Text_Color: '#FE0DA7'
@@ -160,16 +160,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # KC 101 Hamden - Stay Alive
-  - Name: KC 101 Hamden | Stay Alive
+  - Name: KC 101 Hamden
     URL: https://tinyurl.com
     Username: AT40-HamdenCT-101-SA 
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
     # Y100 Miami - Left and Right
-  - Name: Y100 Miami | Left and Right
+  - Name: Y100 Miami
     URL: https://tinyurl.com
     Username: AT40-MiamiFL-100-LnR 
     Text_Color: '#FE0DA7'
@@ -179,16 +179,16 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # KY100 Miami - Stay Alive
-  - Name: Y100 Miami | Stay Alive
+  - Name: Y100 Miami
     URL: https://tinyurl.com
     Username: AT40-MiamiFL-100-SA
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
     
     # 96.5 KISS FM Cleveland - Left and Right
-  - Name: 96.5 KISS FM Cleveland | Left and Right
+  - Name: 96.5 KISS FM Cleveland
     URL: https://tinyurl.com
     Username: AT40-ClevelandOH-965-LnR 
     Text_Color: '#FE0DA7'
@@ -198,18 +198,132 @@ links:
     Icon-Class-2: fas fa-chevron-right
 
     # 96.5 KISS FM Cleveland - Stay Alive
-  - Name: 96.5 KISS FM Cleveland | Stay Alive
+  - Name: 96.5 KISS FM Cleveland
     URL: https://tinyurl.com
     Username: AT40-ClevelandOH-965-SA 
     Text_Color: '#FCFDFF'
     Color: '#0706C6'
-    Border_Color: '#010005'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-heartbeat
+    
+    # 103.5 KISS FM Chicago - Left and Right
+  - Name: 103.5 KISS FM / Chicago, IL
+    URL: https://tinyurl.com
+    Username: AT40-ChicagoIL-1035-LnR
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
+
+    # 103.5 KISS FM Chicago, IL - Stay Alive
+  - Name: 103.5 KISS FM / Chicago, IL
+    URL: https://tinyurl.com
+    Username: AT40-ChicagoIL-1035-SA
+    Text_Color: '#FCFDFF'
+    Color: '#0706C6'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-heartbeat
+    
+    # 102.9 NOW Dallas - Left and Right
+  - Name: 102.9 Now | Dallas, TX
+    URL: https://tinyurl.com
+    Username: AT40-DallasTX-1029-LnR
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
+
+    # 102.9 NOW Dallas - Stay Alive
+  - Name: 102.9 Now | Dallas, TX
+    URL: https://tinyurl.com
+    Username: AT40-DallasTX-1029-SA
+    Text_Color: '#FCFDFF'
+    Color: '#0706C6'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-heartbeat
+    
+    # Q102 Philadelphia - Left and Right
+  - Name: Q102 | Philadelphia, PA
+    URL: https://tinyurl.com
+    Username: AT40-PhiladelphiaPA-Q102-LnR
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
+
+    # Q102 Philadelphia - Stay Alive
+  - Name: Q102 | Philadelphia, PA
+    URL: https://tinyurl.com
+    Username: AT40-PhiladelphiaPA-Q102-SA
+    Text_Color: '#FCFDFF'
+    Color: '#0706C6'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-heartbeat
+    
+    # 100.3 FM Denver - Left and Right
+  - Name: 100.3 FM | Denver, CO
+    URL: https://tinyurl.com
+    Username: AT40-DenverCO-1003-LnR
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
+
+    # 100.3 FM Denver - Stay Alive
+  - Name: 100.3 FM | Denver, CO
+    URL: https://tinyurl.com
+    Username: AT40-DenverCO-1003-SA
+    Text_Color: '#FCFDFF'
+    Color: '#0706C6'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-heartbeat
+    
+    # 96.5 KISS FM Cleveland - Left and Right
+  - Name: 96.5 KISS FM Cleveland
+    URL: https://tinyurl.com
+    Username: AT40-ClevelandOH-965-LnR 
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
+
+    # 96.5 KISS FM Cleveland - Stay Alive
+  - Name: 96.5 KISS FM Cleveland
+    URL: https://tinyurl.com
+    Username: AT40-ClevelandOH-965-SA 
+    Text_Color: '#FCFDFF'
+    Color: '#0706C6'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-heartbeat
+    
+    # HITS 106.1 Seattle - Left and Right
+  - Name: HITS 106.1 | Seattle, WA
+    URL: https://tinyurl.com
+    Username: AT40-SeattleWA-1061-LnR
+    Text_Color: '#FE0DA7'
+    Color: '#DFFE03'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-chevron-left
+    Icon-Class-2: fas fa-chevron-right
+
+    # HITS 106.1 Seattle - Stay Alive
+  - Name: HITS 106.1 | Seattle, WA
+    URL: https://tinyurl.com
+    Username: AT40-SeattleWA-1061-SA 
+    Text_Color: '#FCFDFF'
+    Color: '#0706C6'
+    Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
-    # Twitter - Jung Kook Radio
+    # Twitter - HIGHonLIFE1012
   - Name: Twitter
     URL: https://twitter.com
-    Username: JungkookRadio
+    Username: HIGHonLIFE1012
     Icon-Class: fab fa-twitter
     Color: '#1da1f2'
     Text_Color: '#ffffff'
