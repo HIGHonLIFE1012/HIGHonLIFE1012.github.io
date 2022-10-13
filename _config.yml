@@ -32,7 +32,7 @@ links:
     Text_Color: '#FCFDFF'
     Color: '#010005'
     Border_Color: '#0706C6'
-    Icon-Class: 
+    Icon-Class: fas fa-heartbeat
 
     # STAR 94.1 Atlanta - Left and Right
   - Name: STAR 94.1 Atlanta | Left and Right
