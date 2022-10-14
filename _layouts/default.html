@@ -30,19 +30,20 @@ layout: compress
                 
                 <!--Possible Navigation Bar addition-->
                 <div class="navbar">
-                    <a class="active lg:m-5 md:5 sm:3.5 text-white hover:opacity-75 font-semibold my-2.5 mx-5 px-5 py-1.5 rounded-md w-full place-content-center h-14 w-32" href="#"><i class="fas fa-chevron-left"><i class="fas fa-chevron-right"></i></i>Left and Right</a>
+                    <a class="active" href="/_layouts/links.html"><i class="fas fa-chevron-left"><i class="fas fa-chevron-right"></i></i>Left and Right</a>
                     <a href="#"><i class="fas fa-heartbeat"></i>Stay Alive</a>
                     <a href="#"><i class="fas fa-phone-alt"></i>Call</a>
-                    <a href="#"><i class="fab fa-facebook-messenger"></i>Text</a>
+                    <a href="/_layouts/messages.html"><i class="fab fa-facebook-messenger"></i>Text</a>
                 </div>
                 
                 <hr class="my-2 opacity-25">
-                
+                <!--Commenting out for the time being
                 <div class="grid 2xl:grid-cols-5 xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-1 my-7">
                     {% unless site.links == "" %}
                     {% include links.html %}
                     {% endunless %}
                 </div>
+                -->
             </span>
             {% if site.footer and site.footer == 'Yes' or site.footer == 'yes' or site.footer == 'y' or site.footer == 'Y' %}<div
                 class="flex absolute mt-5 z-20 bottom-0 bg-black bg-opacity-50 w-full p-2 justify-center">Made
