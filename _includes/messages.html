@@ -1,0 +1,18 @@
+{% for message in site.messages %}
+
+{% if message.URL %}
+
+<a class="flex" href="{{message.URL}}{% if message.Username %}/{{message.Username}}{% endif %}" target="_blank"
+        rel="noopener noreferrer">
+        <button id="messages"
+                class="messages lg:m-5 md:5 sm:3.5 text-white hover:opacity-75 font-semibold my-2.5 mx-5 px-5 py-1.5 rounded-md w-full place-content-center h-14 w-32"
+                style="{% if message.Color or message.Border_Color %}background-color: {{message.Color}};-webkit-box-shadow: 0px 10px 25px 0px {{message.Color}}80;-moz-box-shadow: 0px 10px 25px 0px {{message.Color}}80;box-shadow: 0px 10px 25px 0px {{message.Color}}80; border: 0.10rem solid {{message.Border_Color}}; -webkit-box-shadow: 0px 10px 25px 0px {{message.Border_Color}}80;-moz-box-shadow: 0px 10px 25px 0px {{message.Border_Color}}80;box-shadow: 0px 10px 25px 0px {{message.Border_Color}}80;{% else %}color: white; border: white; {% endif %}">
+                <span id="message-content" {% if message.Text_Color %}style="color: {{message.Text_Color}};"{% endif %}>
+                        <i class="{{message.Icon-Class}} align-middle"></i><i class="{{message.Icon-Class-2}} align-middle"></i><span class="mx-1.5 align-middle">{{message.Name}}</span>
+                </span>
+        </button>
+</a>
+
+{% endif %}
+
+{% endfor %}
