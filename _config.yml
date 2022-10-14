@@ -13,7 +13,7 @@ Cover_Image: https://source.unsplash.com/random
 # https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2NTQ3MjA4NQ&ixlib=rb-1.2.1&q=80&w=1080
 # https://source.unsplash.com/random
 
-# Request Links
+# AT40 Google Request Links
 links:
     
     # Z100 New York - Left & Right
@@ -449,6 +449,35 @@ links:
     Icon-Class: fas fa-envelope
     Color: '#430297'
     Text_Color: '#ffffff'
+
+messages:
+
+    # HITS 106.1 Seattle - Text
+  - Name: Text HITS 106.1
+    URL: sms:+41061
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fab fa-facebook-messenger
+    
+    # Z100 New York - Text
+  - Name: Text Z100 NY
+    URL: sms:+55100
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fab fa-facebook-messenger
+    
+    # 96.7 KISS FM Austin - Text
+  - Name: Text 96.7 KISS FM
+    URL: sms:+81530
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fab fa-facebook-messenger
 
 # Footer - Can be removed entirely by removing 'Yes' or commenting out the code line.
 # footer: 'Yes'
