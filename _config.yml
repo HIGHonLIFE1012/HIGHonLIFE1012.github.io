@@ -37,7 +37,7 @@ links:
     
     # Z100 New York - Phone
   - Name: Call Z100 NY
-    URL: tel:8002420100
+    URL: tel:18002420100
     Username: 
     Text_Color: '#FFFFFF'
     Color: '#1DD825'
@@ -74,12 +74,12 @@ links:
     
     # STAR 94.1 Atlanta - Phone
   - Name: STAR 94.1 | Atlanta, GA
-    URL: tel:8665701941
+    URL: tel:18665701941
     Username: 
     Text_Color: '#FFFFFF'
     Color: '#1DD825'
     Border_Color: '#FFFFFF'
-    Icon-Class: fa fa-mobile-phone
+    Icon-Class: fas fa-phone-alt
     
     # 96.7 KISS FM Austin - Left and Right
   - Name: 96.7 KISS FM | Austin, TX
@@ -99,6 +99,24 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+    
+    # 96.7 KISS FM Austin - Phone
+  - Name: Call 96.7 KISS FM
+    URL: tel:15123901967
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
+    
+    # 96.7 KISS FM Austin - Text
+  - Name: Text 96.7 KISS FM
+    URL: sms:+81530
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fab fa-facebook-messenger
 
     # KISS 108 Boston - Left and Right
   - Name: KISS 108 | Boston, MA
@@ -118,6 +136,15 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+    
+    # KISS 108 Boston - Phone
+  - Name: Call KISS 108
+    URL: tel:16179311108
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
 
     # 102.7 KIIS FM Los Angeles - Left and Right
   - Name: 102.7 KIIS FM | Los Angeles, CA
@@ -138,6 +165,15 @@ links:
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
+    # 102.7 KIIS FM Los Angeles - Phone
+  - Name: Call 102.7 KIIS FM
+    URL: tel:18005201027
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
+    
     # MIX 96.9 Phoenix - Left and Right
   - Name: MIX 96.9 | Phoenix, AZ
     URL: https://tinyurl.com
@@ -176,6 +212,15 @@ links:
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
 
+    # Z100 Portland - Phone
+  - Name: Call Z100 Portland
+    URL: tel:18884830100
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
+
     # KC 101 Hamden - Left and Right
   - Name: KC 101 | Hamden, CT
     URL: https://tinyurl.com
@@ -194,6 +239,15 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+
+    # KC 101 Hamden - Phone
+  - Name: Call KC 101
+    URL: tel:12032301013
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
 
     # Y100 Miami - Left and Right
   - Name: Y100 | Miami, FL
@@ -214,6 +268,15 @@ links:
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
     
+    # Y100 Miami - Phone
+  - Name: Call Y100 Miami
+    URL: tel:18666459100
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt    
+    
     # 96.5 KISS FM Cleveland - Left and Right
   - Name: 96.5 KISS FM | Cleveland, OH
     URL: https://tinyurl.com
@@ -232,6 +295,15 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+    
+    # 96.5 KISS FM Cleveland - Phone
+  - Name: Call 96.5 KISS FM
+    URL: tel:12165789650
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt 
     
     # 103.5 KISS FM Chicago - Left and Right
   - Name: 103.5 KISS FM | Chicago, IL
@@ -252,6 +324,15 @@ links:
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
     
+    # 103.5 KISS FM Chicago, IL - Phone
+  - Name: Call 103.5 KISS FM
+    URL: tel:18555911035
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt     
+    
     # 102.9 NOW Dallas - Left and Right
   - Name: 102.9 Now | Dallas, TX
     URL: https://tinyurl.com
@@ -270,7 +351,16 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
-    
+
+    # 102.9 NOW Dallas - Phone
+  - Name: Call 102.9 NOW
+    URL: tel:12147871029
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt   
+
     # Q102 Philadelphia - Left and Right
   - Name: Q102 | Philadelphia, PA
     URL: https://tinyurl.com
@@ -289,7 +379,25 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+ 
+    # Q102 Philadelphia - Phone
+  - Name: Call Q102 Philly
+    URL: tel:12152631021
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
     
+    # Q102 Philadelphia - Text
+  - Name: Text Q102 Philly
+    URL: sms:+71021
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fab fa-facebook-messenger
+ 
     # HITS 106.1 Seattle - Left and Right
   - Name: HITS 106.1 | Seattle, WA
     URL: https://tinyurl.com
@@ -308,6 +416,24 @@ links:
     Color: '#0706C6'
     Border_Color: '#FFFFFF'
     Icon-Class: fas fa-heartbeat
+
+    # HITS 106.1 Seattle - Phone
+  - Name: Call HITS 106.1 
+    URL: tel:18883431061
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fas fa-phone-alt
+    
+    # HITS 106.1 Seattle - Text
+  - Name: Text HITS 106.1
+    URL: sms:+41061
+    Username: 
+    Text_Color: '#FFFFFF'
+    Color: '#1DD825'
+    Border_Color: '#FFFFFF'
+    Icon-Class: fab fa-facebook-messenger
 
     # Twitter - HIGHonLIFE1012
   - Name: Twitter
